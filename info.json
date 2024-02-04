@@ -1,0 +1,233 @@
+[
+  {
+    "id": 1,
+    "titulo": "One Piece",
+    "sipnosis": "Monkey D. Luffy y su tripulación buscan el tesoro supremo, el One Piece.",
+    "img": "url_de_la_imagen_1.jpg",
+    "generos": ["Aventura", "Acción", "Fantasía"],
+    "cantidad_capitulos": 1000,
+    "ano_inicio": 1997,
+    "ano_finalizacion": 2022,
+    "mangaka": "Eiichiro Oda"
+  },
+  {
+    "id": 2,
+    "titulo": "Fullmetal Alchemist",
+    "sipnosis": "Dos hermanos buscan la Piedra Filosofal para restaurar sus cuerpos después de un intento de resurrección.",
+    "img": "url_de_la_imagen_2.jpg",
+    "generos": ["Aventura", "Fantasía", "Drama"],
+    "cantidad_capitulos": 116,
+    "ano_inicio": 2001,
+    "ano_finalizacion": 2010,
+    "mangaka": "Hiromu Arakawa"
+  },
+  {
+    "id": 3,
+    "titulo": "Death Note",
+    "sipnosis": "Un estudiante encuentra un cuaderno que le permite matar a cualquier persona cuyo nombre escriba en él.",
+    "img": "url_de_la_imagen_3.jpg",
+    "generos": ["Misterio", "Psicológico", "Supernatural"],
+    "cantidad_capitulos": 108,
+    "ano_inicio": 2003,
+    "ano_finalizacion": 2006,
+    "mangaka": "Tsugumi Ohba"
+  },
+  {
+    "id": 4,
+    "titulo": "Bleach",
+    "sipnosis": "Ichigo Kurosaki adquiere poderes de un shinigami y debe proteger a los vivos de los espíritus malignos.",
+    "img": "url_de_la_imagen_5.jpg",
+    "generos": ["Acción", "Supernatural", "Drama"],
+    "cantidad_capitulos": 686,
+    "ano_inicio": 2001,
+    "ano_finalizacion": 2016,
+    "mangaka": "Tite Kubo"
+  },
+  {
+    "id": 5,
+    "titulo": "Hunter x Hunter",
+    "sipnosis": "Gon Freecss busca encontrar a su padre y se convierte en un cazador de tesoros.",
+    "img": "url_de_la_imagen_7.jpg",
+    "generos": ["Aventura", "Fantasía", "Acción"],
+    "cantidad_capitulos": 390,
+    "ano_inicio": 1998,
+    "ano_finalizacion": 2018,
+    "mangaka": "Yoshihiro Togashi"
+  },
+  {
+    "id": 6,
+    "titulo": "Demon Slayer: Kimetsu no Yaiba",
+    "sipnosis": "Tanjiro Kamado busca vengar a su familia y proteger a su hermana convertida en demonio.",
+    "img": "url_de_la_imagen_9.jpg",
+    "generos": ["Acción", "Drama", "Fantasía"],
+    "cantidad_capitulos": 205,
+    "ano_inicio": 2016,
+    "ano_finalizacion": 2020,
+    "mangaka": "Koyoharu Gotouge"
+  },
+  {
+    "id": 7,
+    "titulo": "My Hero Academia",
+    "sipnosis": "Izuku Midoriya busca convertirse en el héroe número uno en un mundo lleno de superpoderes.",
+    "img": "url_de_la_imagen_10.jpg",
+    "generos": ["Acción", "Aventura", "Fantasía"],
+    "cantidad_capitulos": 342,
+    "ano_inicio": 2014,
+    "ano_finalizacion": 2022,
+    "mangaka": "Kohei Horikoshi"
+  },
+  {
+    "id": 8,
+    "titulo": "One Punch Man",
+    "sipnosis": "Saitama, un héroe que puede derrotar a cualquier enemigo de un solo golpe, busca emoción en sus peleas.",
+    "img": "url_de_la_imagen_11.jpg",
+    "generos": ["Acción", "Comedia", "Ciencia Ficción"],
+    "cantidad_capitulos": 145,
+    "ano_inicio": 2009,
+    "ano_finalizacion": 2021,
+    "mangaka": "ONE"
+  },
+  {
+    "id": 9,
+    "titulo": "My Youth Romantic Comedy Is Wrong, As I Expected",
+    "sipnosis": "Hachiman Hikigaya, un estudiante cínico, se une al club de servicio para resolver problemas estudiantiles.",
+    "img": "url_de_la_imagen_12.jpg",
+    "generos": ["Comedia Romántica", "Drama", "Slice of Life"],
+    "cantidad_capitulos": 138,
+    "ano_inicio": 2011,
+    "ano_finalizacion": 2019,
+    "mangaka": "Wataru Watari"
+  },
+  {
+    "id": 10,
+    "titulo": "Steins;Gate",
+    "sipnosis": "Okabe Rintarou descubre cómo enviar mensajes al pasado y desencadena una serie de eventos inesperados.",
+    "img": "url_de_la_imagen_13.jpg",
+    "generos": ["Ciencia Ficción", "Thriller", "Viajes en el Tiempo"],
+    "cantidad_capitulos": 26,
+    "ano_inicio": 2009,
+    "ano_finalizacion": 2010,
+    "mangaka": "Kenji Mizuta"
+  },
+  {
+    "id": 11,
+    "titulo": "Vinland Saga",
+    "sipnosis": "Thorfinn busca venganza en la época de los vikingos por la muerte de su padre.",
+    "img": "url_de_la_imagen_14.jpg",
+    "generos": ["Acción", "Historia", "Drama"],
+    "cantidad_capitulos": 176,
+    "ano_inicio": 2005,
+    "ano_finalizacion": 2019,
+    "mangaka": "Makoto Yukimura"
+  },
+  {
+    "id": 12,
+    "titulo": "Jujutsu Kaisen",
+    "sipnosis": "Yuji Itadori se une a una escuela de jujutsu para combatir maldiciones y salvar a sus amigos.",
+    "img": "url_de_la_imagen_15.jpg",
+    "generos": ["Acción", "Supernatural", "Horror"],
+    "cantidad_capitulos": 204,
+    "ano_inicio": 2018,
+    "ano_finalizacion": 2023,
+    "mangaka": "Gege Akutami"
+  },
+  {
+    "id": 13,
+    "titulo": "Re:Zero - Starting Life in Another World",
+    "sipnosis": "Subaru Natsuki es transportado a otro mundo y descubre que tiene la habilidad de regresar en el tiempo al morir.",
+    "img": "url_de_la_imagen_16.jpg",
+    "generos": ["Fantasía", "Drama", "Romance"],
+    "cantidad_capitulos": 140,
+    "ano_inicio": 2014,
+    "ano_finalizacion": 2022,
+    "mangaka": "Tappei Nagatsuki"
+  },
+  {
+    "id": 14,
+    "titulo": "Black Clover",
+    "sipnosis": "Asta, un joven sin magia, busca convertirse en el Rey Mago y proteger su reino.",
+    "img": "url_de_la_imagen_17.jpg",
+    "generos": ["Acción", "Fantasía", "Magia"],
+    "cantidad_capitulos": 333,
+    "ano_inicio": 2015,
+    "ano_finalizacion": 2022,
+    "mangaka": "Yūki Tabata"
+  },
+  {
+    "id": 15,
+    "titulo": "Haikyuu!!",
+    "sipnosis": "Shoyo Hinata se une al equipo de voleibol y busca derrotar a equipos poderosos.",
+    "img": "url_de_la_imagen_18.jpg",
+    "generos": ["Deportes", "Comedia", "Drama"],
+    "cantidad_capitulos": 402,
+    "ano_inicio": 2012,
+    "ano_finalizacion": 2020,
+    "mangaka": "Haruichi Furudate"
+  },
+  {
+    "id": 16,
+    "titulo": "The Promised Neverland",
+    "sipnosis": "Emma y sus amigos descubren que su orfanato es en realidad una granja para demonios.",
+    "img": "url_de_la_imagen_19.jpg",
+    "generos": ["Misterio", "Thriller", "Horror"],
+    "cantidad_capitulos": 181,
+    "ano_inicio": 2016,
+    "ano_finalizacion": 2020,
+    "mangaka": "Kaiu Shirai"
+  },
+  {
+    "id": 17,
+    "titulo": "Attack on Titan",
+    "sipnosis": "La humanidad lucha por sobrevivir contra enormes titanes devoradores de humanos.",
+    "img": "url_de_la_imagen_21.jpg",
+    "generos": ["Acción", "Drama", "Fantasía"],
+    "cantidad_capitulos": 139,
+    "ano_inicio": 2009,
+    "ano_finalizacion": 2021,
+    "mangaka": "Hajime Isayama"
+  },
+  {
+    "id": 18,
+    "titulo": "Tokyo Ghoul",
+    "sipnosis": "Kaneki Ken, convertido en mitad ghoul, debe adaptarse a su nueva vida y enfrentarse a amenazas sobrenaturales.",
+    "img": "url_de_la_imagen_24.jpg",
+    "generos": ["Horror", "Acción", "Misterio"],
+    "cantidad_capitulos": 144,
+    "ano_inicio": 2011,
+    "ano_finalizacion": 2014,
+    "mangaka": "Sui Ishida"
+  },
+  {
+    "id": 18,
+    "titulo": "Naruto",
+    "sipnosis": "Naruto Uzumaki busca ser reconocido como el ninja más fuerte y ser el líder de su aldea.",
+    "img": "url_de_la_imagen_27.jpg",
+    "generos": ["Acción", "Aventura", "Fantasía"],
+    "cantidad_capitulos": 700,
+    "ano_inicio": 1999,
+    "ano_finalizacion": 2014,
+    "mangaka": "Masashi Kishimoto"
+  },
+  {
+    "id": 20,
+    "titulo": "Neon Genesis Evangelion",
+    "sipnosis": "Un grupo de adolescentes pilotea gigantes mechas para proteger la Tierra de criaturas misteriosas.",
+    "img": "url_de_la_imagen_28.jpg",
+    "generos": ["Mecha", "Psicológico", "Drama"],
+    "cantidad_capitulos": 94,
+    "ano_inicio": 1994,
+    "ano_finalizacion": 2013,
+    "mangaka": "Yoshiyuki Tomino"
+  },
+  {
+    "id": 21,
+    "titulo": "Cowboy Bebop",
+    "sipnosis": "Spike Spiegel y su equipo cazan criminales en el espacio mientras lidian con su pasado.",
+    "img": "url_de_la_imagen_29.jpg",
+    "generos": ["Ciencia Ficción", "Acción", "Noir"],
+    "cantidad_capitulos": 26,
+    "ano_inicio": 1997,
+    "ano_finalizacion": 1998,
+    "mangaka": "Hajime Yatate"
+  }
+]
