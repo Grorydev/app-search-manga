@@ -16,7 +16,7 @@ const Home = () => {
         <div
           className="flex h-full items-center justify-center"
           style={{
-            background: "url('../../src/assets/images/fondo_principal.png')",
+            background: "url('/assets/images/fondo_principal.png')",
             backgroundSize: "cover",
             backgroundRepeat: "no-repeat",
             backgroundPosition: "center",
